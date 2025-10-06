@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loris-556
 - 👀 I’m interested in tabeltennis and sailing
 - 🌱 I’m currently stduying computer science in Germany
-- 💞️ I’m looking to get some help with my studies sice i'm new in this field
+- 💞️ I’m looking to get some help with my studies since i'm new in this field
 - 📫 You can reach me on my E-Mail its.quixyt@gmail.com or you can write me on Instagram @Loris_556
 
 <!---
